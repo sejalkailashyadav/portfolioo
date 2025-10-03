@@ -8,6 +8,8 @@ import {
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import Strings from "@/constants/strings";
 import type { ISocialLinkItem } from "@/types";
+import { faLaptopCode } from '@fortawesome/free-solid-svg-icons';
+
 
 const socialLinks: ISocialLinkItem[] = [
   {
@@ -49,7 +51,7 @@ const socialLinks: ISocialLinkItem[] = [
 {
   name: Strings.leetcode,
   url: Strings.leetcodeLink,
-  icon: faCode,
+  icon: faLaptopCode,
   text: Strings.leetcodeUser,
 },
 ];
