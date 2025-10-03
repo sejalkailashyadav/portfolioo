@@ -63,7 +63,8 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
                   <span className="text-base/6 text-[var(--whiteColor)]">
                    
                       <FontAwesomeIcon icon={link.icon} />
-            
+
+                    
                   </span>
                 </Link>
               );
