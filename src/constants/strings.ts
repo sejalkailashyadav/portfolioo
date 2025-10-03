@@ -23,9 +23,9 @@ class Strings {
   static primaryEmailLink = "mailto:sejalyadav122@gmail.com";
   static primaryEmail = "sejalyadav122@gmail.com";
 
-   static leetcode = "Leetcode";
-  static primaryEmailLink = "https://leetcode.com/u/sejalkailashyadav23/";
-  static primaryEmail = "sejalkailashyadav23";
+static leetcode = "LeetCode";
+static leetcodeLink = "https://leetcode.com/u/sejalkailashyadav23/";
+static leetcodeUser = "sejalkailashyadav23";
   
   // static buyMeACoffee = "BuyMeACoffee";
   // static buyMeACoffeeLink = "https://buymeacoffee.com/nixyadav";
