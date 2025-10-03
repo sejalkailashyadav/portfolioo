@@ -61,9 +61,9 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
                   aria-label={`${link.name}`}
                 >
                   <span className="text-base/6 text-[var(--whiteColor)]">
-                    {typeof link.icon == "string" ? null : (
+                   
                       <FontAwesomeIcon icon={link.icon} />
-                    )}
+            
                   </span>
                 </Link>
               );
