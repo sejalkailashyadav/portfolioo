@@ -46,13 +46,12 @@ const socialLinks: ISocialLinkItem[] = [
     icon: faEnvelope,
     text: Strings.primaryEmail,
   },
- {
-  name: "LeetCode",
-  url: "https://leetcode.com/u/sejalkailashyadav23/", 
+{
+  name: Strings.leetcode,
+  url: Strings.leetcodeLink,
   icon: faCode,
-  text: "LeetCode",
+  text: Strings.leetcodeUser,
 },
- 
 ];
 
 export default socialLinks;
